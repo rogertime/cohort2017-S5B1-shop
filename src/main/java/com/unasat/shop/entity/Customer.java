@@ -16,7 +16,6 @@ public class Customer {
     private String lastName;
     private String creditcardNo;
     private Date birthDate;
-    private String validateMe;
 
     public Long getId() {
         return id;
